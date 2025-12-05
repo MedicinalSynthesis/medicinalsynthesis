@@ -1,2 +1,4 @@
 title: Medicinal Synthesis
 theme: minima
+minima:
+  show_page_title: false
