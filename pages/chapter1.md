@@ -1,7 +1,5 @@
 ---
 layout: default
-hide_page_title: true
-nav_exclude: true
 ---
 
 # Aldol Reactions
