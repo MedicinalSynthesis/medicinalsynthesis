@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Medicinal Synthesis
+title: Homepage
 ---
 
 # Homepage
