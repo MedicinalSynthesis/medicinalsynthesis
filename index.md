@@ -3,7 +3,7 @@ layout: default
 title: Medicinal Synthesis
 ---
 
-# Medicinal Synthesis
+# Homepage
 
 Welcome to this free learning resource on pharmaceutical organic synthesis.
 
