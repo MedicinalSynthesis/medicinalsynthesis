@@ -1,5 +1,6 @@
 ---
 layout: default
+hide_page_title: true
 ---
 
 # Aldol Reactions
