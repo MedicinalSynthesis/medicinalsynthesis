@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Homepage / Table of Contents
+title: Homepage
 ---
 
 # Homepage
