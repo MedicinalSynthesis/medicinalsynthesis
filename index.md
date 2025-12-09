@@ -11,5 +11,6 @@ Organic chemistry is unfortunately a daunting topic for many as per the often co
 
 ## Table of Contents
 
-- [Chapter 1: Aldol Reactions](pages/chapter1.md)
-- [Chapter 2: Claisen Condensation](pages/chapter2.md)
+- [Chapter 1: The Basics I](pages/chapter1.md)
+- [Chapter 2: The Basics II](pages/chapter2.md)
+- [Chapter 3: The Basics III](pages/chapter3.md)
