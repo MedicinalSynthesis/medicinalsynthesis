@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# The Basics II
+## The Basics II
 
 
 ## Mechanism
