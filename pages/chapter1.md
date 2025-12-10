@@ -10,7 +10,6 @@ We will start with blah blah as shown below
   <img src="{{ '/assets/test.png' | relative_url }}" width="700">
 </p>
 
-
 ## Mechanism
 
 
