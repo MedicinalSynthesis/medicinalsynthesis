@@ -73,9 +73,9 @@ Now, the first shell contains ONE subshell called the 's' subshell, and within t
 
 The second shell contains TWO subshells, an 's' subshell, and another called the 'p' subshell. The 's' subshell once again holds ONE orbital, and the 'p' subshell will hold THREE orbitals.
 
-Lastly, the third shell contains THREE subshells, an 's' subshell, a 'p' subshell, and now a 'd' subshell as well. The 's' subshell again holds ONE orbital, the 'p' subshell holds THREE orbitals, and the 'd' subshell will hold FIVE orbitals. 
+Lastly, the third shell contains THREE subshells, an 's' subshell, a 'p' subshell, and now a 'd' subshell as well. The 's' subshell again holds ONE orbital, the 'p' subshell holds THREE orbitals, and the 'd' subshell will hold FIVE orbitals. Every orbital will hold 2 electrons.
 
-Right now, this seems as nothing more than a lot of rote memorization work and countless subdivisions to spread our electrons around in. This work will pay off however in the long run, and we will complete our first electron filling diagram with this information using the carbon atom as promised. 
+Right now, this seems as nothing more than a lot of rote memorization work and countless subdivisions to spread our electrons around in. This work will pay off however in the long run, and we will complete something called an electron filling diagram with this information using the carbon atom as promised. 
 
 So, back to carbon.
 
@@ -85,7 +85,19 @@ Two of the total six electrons will move into the FIRST shell, as recall that th
 
 **We call our second shell the 'valence' electron shell, and the electrons within this particular shell 'valence electrons', because they are in the OUTERMOST OCCUPIED ELECTRON SHELL OF THE ATOM.** 
 
-This statement was not bolded nor capitalized for no reason. This is such an essential concept to understand because it is these valence electrons that will underpin chemical reactivity, the reasons for which shall be explained shortly. 
+This statement was not bolded nor capitalized for no reason. This is such an essential concept to understand because it is these valence electrons that will underpin chemical reactivity.
+
+Now that we have established how many electrons will go into each shell, and what our valence shell is, we can now start determining into which subshells and orbitals the electrons in each shell will move into.
+
+The easiest and most intuitive way to do this is by using an electron filling diagram.
+
+
+
+
+
+  
+
+
 
 
 
