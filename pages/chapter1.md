@@ -12,6 +12,9 @@ Let's begin!
 Although it is assumed you have some degree of familiarity in very basic chemistry, we will give a run-through again so we're all on the same page. 
 
 
+
+
+
 All matter in the universe is made up of very small particles called atoms. 
 
 
