@@ -8,7 +8,7 @@ In this chapter, we will begin our foray into medicinal synthesis by first estab
 Let's begin!
 
 <p style="text-align: center;">
-  <img src="{{ '/assets/test.png' | relative_url }}" style="width: 700px; max-width: 100%; height: auto;">
+  <img src="{{ 'medicinalsynthesis/assets/test.png' | relative_url }}" style="width: 700px; max-width: 100%; height: auto;">
 </p>
 
 
