@@ -6,9 +6,8 @@ layout: default
 
 We will start with blah blah as shown below
 
-<p align="center">
-  <img src="{{ '/assets/test.png' | relative_url }}" width="700">
-</p>
+<img src="/assets/test.png" width="700">
+
 
 ## Mechanism
 
