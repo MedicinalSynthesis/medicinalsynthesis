@@ -8,7 +8,7 @@ In this chapter, we will begin our foray into medicinal synthesis by first estab
 Let's begin!
 
 <p style="text-align: center;">
-  <img src="/assets/test.png" width="400" height="400">
+  <img src="https://raw.githubusercontent.com/MedicinalSynthesis/medicinalsynthesis/refs/heads/main/assets/test.png" width="400" height="400">
 </p>
 
 
