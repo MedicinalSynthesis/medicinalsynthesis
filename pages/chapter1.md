@@ -91,7 +91,9 @@ Now that we have established how many electrons will go into each shell, and wha
 
 The easiest and most intuitive way to do this is by using an electron filling diagram.
 
-
+<p style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/MedicinalSynthesis/medicinalsynthesis/refs/heads/main/assets/chapter1images/Photo1.png" style="width: 400px; max-width: 100%; height: auto;">
+</p>
 
 
 
