@@ -17,7 +17,7 @@ Atoms are made up of positively charged protons, neutral neutrons, and negativel
 
 The protons and neutrons sit together in what is known as the nucleus at the centre of the atom, and the electrons exist outside the nucleus in what we call 'shells' (its a bit more complicated than this, but we'll get there). 
 
-Atoms can have differing numbers of protons, and the number of protons gives the atom its elemental identity. For example, an atom with 6 protons is considered to be the element carbon, and an atom with 8 protons is of the element oxygen. 
+Atoms can have differing numbers of protons within them, and the number of protons gives the atom its elemental identity. For example, an atom with 6 protons is considered to be the element carbon, and an atom with 8 protons is of the element oxygen. 
 
 Atoms are electrically-neutral, which basically means that when we consider an element's atom off the periodic table (a chart tabulating all existing elements in the universe) before it has undergone any form of chemical transformation, its number of protons will equal its number of electrons. 
 
@@ -69,7 +69,25 @@ The third shell can fit 18 electrons in it.
 
 And that's all we will consider for the moment in our study of medicinal synthesis, as rarely will we encounter atoms in this field that contain a number of electrons that makes us need to consider beyond the third shell. This is a matter for other disciplines.
 
-Now, the first shell contains ONE subshell called the 's' subshell
+Now, the first shell contains ONE subshell called the 's' subshell, and within this 's' subshell is ONE orbital.
+
+The second shell contains TWO subshells, an 's' subshell, and another called the 'p' subshell. The 's' subshell once again holds ONE orbital, and the 'p' subshell will hold THREE orbitals.
+
+Lastly, the third shell contains THREE subshells, an 's' subshell, a 'p' subshell, and now a 'd' subshell as well. The 's' subshell again holds ONE orbital, the 'p' subshell holds THREE orbitals, and the 'd' subshell will hold FIVE orbitals. 
+
+Right now, this seems as nothing more than a lot of rote memorization work and countless subdivisions to spread our electrons around in. This work will pay off however in the long run, and we will complete our first electron filling diagram with this information using the carbon atom as promised. 
+
+So, back to carbon.
+
+This has 6 electrons total, so lets start simple and work out how many electrons will go into each shell.
+
+Two of the total six electrons will move into the FIRST shell, as recall that this can fit 2 electrons maximum. Thus, we have 4 electrons leftover, which will fit snugly into the second shell as this can hold 8 maximum electrons. So, the first shell has thus been *fully filled*, and our second shell has had 4 electrons filled out of the maximum 8. 
+
+**We call our second shell the 'valence' electron shell, and the electrons within this particular shell 'valence electrons', because they are in the OUTERMOST OCCUPIED ELECTRON SHELL OF THE ATOM.** 
+
+This statement was not bolded nor capitalized for no reason. This is such an essential concept to understand because it is these valence electrons that will underpin chemical reactivity, the reasons for which shall be explained shortly. 
+
+
 
 
 
