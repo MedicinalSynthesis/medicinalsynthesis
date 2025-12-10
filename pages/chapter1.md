@@ -7,7 +7,7 @@ In this chapter, we will begin our foray into medicinal synthesis by first estab
 
 Let's begin!
 
-<img src="/assets/test.png" width="700" height="300">
+<img src="/assets/test.png" width="400" height="400">
 
 
 
