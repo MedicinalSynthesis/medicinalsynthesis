@@ -59,13 +59,13 @@ Now, these electrons don't just exist arbritrarily around the nucleus of the car
 
 Electrons in every single atom of every single element are arranged into energy levels called shells, and are then further arranged into subshells and finally orbitals.
 
-Think of the shells as the suburbs where electrons live in. The subshell is then the house in that suburb, and the orbitals are the rooms within that house. 
+Think of the shells as the suburbs where electrons live in. The subshell is then the house in that suburb, and the orbitals are the rooms within that house. Electrons would be the people in those rooms, and each room/orbital can fit TWO people/electrons.
 
-The first shell can fit 2 electrons in it.
+The first shell can fit 2 electrons total in it.
 
-The second shell can fit 8 electrons in it.
+The second shell can fit 8 electrons total in it.
 
-The third shell can fit 18 electrons in it.
+The third shell can fit 18 electrons total in it.
 
 And that's all we will consider for the moment in our study of medicinal synthesis, as rarely will we encounter atoms in this field that contain a number of electrons that makes us need to consider beyond the third shell. This is a matter for other disciplines.
 
@@ -103,7 +103,7 @@ To start, lets fill in the electrons that fit within the first shell, for which 
   <img src="https://raw.githubusercontent.com/MedicinalSynthesis/medicinalsynthesis/refs/heads/main/assets/chapter1images/Photo2.png" style="width: 400px; max-width: 100%; height: auto;">
 </p>
 
-Note that each arrow, no matter whether it is pointing up or down, represents a single electron. Electrons are always drawn out in pairs in each orbital, with one arrow pointing up and another pointing down. At this stage, you do not need to understand the significance of the direction of the arrows, other than that when two electrons pair up, one is something called 'spin-up' and another is something called 'spin-down'.
+Note that each arrow, no matter whether it is pointing up or down, represents a single electron. Electrons are always drawn out in pairs in each orbital, with one arrow pointing up and another pointing down. At this stage, you do not need to understand the significance of the direction of the arrows, other than that when two electrons pair up, one is something called 'spin-up' (i.e arrow point up) and another is something called 'spin-down' (i.e arrow point down).
 
 Let's keep going. 
 
@@ -123,7 +123,7 @@ A picture is worth a thousand words, so you might understand this concept more i
 
 Do you see how we completed the 2s orbital FIRST using two electrons, and then moved to the next level (2p) and placed the remaining two electrons (remember there were four total in the second shell for Carbon) in distinct 2p orbitals of the same level? And, lets say we were not dealing with Carbon but another element with more electrons, we would have popped another 'spin-up' electron in the third square/orbital, and THEN started pairing each of the lone electrons up, one at a time.
 
-As a note, when multiple orbitals that are on the same level (2p and 3p for example), we c all those orbitals 'degenerate' because they are identical in energy.
+As a note, when multiple orbitals that are on the same level (2p and 3p for example), we call those orbitals 'degenerate' because they are identical in energy.
 
 
 
