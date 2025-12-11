@@ -95,7 +95,7 @@ The easiest and most intuitive way to do this is by using an electron filling di
   <img src="https://raw.githubusercontent.com/MedicinalSynthesis/medicinalsynthesis/refs/heads/main/assets/chapter1images/Photo1.png" style="width: 400px; max-width: 100%; height: auto;">
 </p>
 
-This allows us to chart exactly WHERE in each shell the electrons are going. Each square represents an orbital, and each row a subshell. The terms '1s' or '2s' refer to the shell and subshell that the orbital is in. For example, the '2p' designation means that we are referring to the SECOND shell and the P subshell.
+This allows us to chart exactly WHERE in each shell the electrons are going. Each square represents an orbital, and each row a subshell. The terms '1s' or '2s' refer to the shell and subshell that the orbital is in. For example, the '2p' designation means that we are referring to the SECOND shell and the P subshell, of which there are 3 orbitals (because we can see three squares!).
 
 To start, lets fill in the electrons that fit within the first shell, for which we deduced earlier that there would be two electrons.
 
