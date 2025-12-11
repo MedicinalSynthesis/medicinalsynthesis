@@ -89,11 +89,22 @@ This statement was not bolded nor capitalized for no reason. This is such an ess
 
 Now that we have established how many electrons will go into each shell, and what our valence shell is, we can now start determining into which subshells and orbitals the electrons in each shell will move into.
 
-The easiest and most intuitive way to do this is by using an electron filling diagram.
+The easiest and most intuitive way to do this is by using an electron filling diagram, an example of which is shown below.
 
 <p style="text-align: center;">
   <img src="https://raw.githubusercontent.com/MedicinalSynthesis/medicinalsynthesis/refs/heads/main/assets/chapter1images/Photo1.png" style="width: 400px; max-width: 100%; height: auto;">
 </p>
+
+This allows us to chart exactly WHERE in each shell the electrons are going. Each square represents an orbital, and each row a subshell.
+
+To start, lets fill in the electrons that fit within the first shell, for which we deduced earlier that there would be two electrons.
+
+<p style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/MedicinalSynthesis/medicinalsynthesis/refs/heads/main/assets/chapter1images/Photo2.png" style="width: 400px; max-width: 100%; height: auto;">
+</p>
+
+
+
 
 
 
