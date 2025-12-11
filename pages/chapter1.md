@@ -85,7 +85,7 @@ Two of the total six electrons will move into the FIRST shell, as recall that th
 
 **We call our second shell the 'valence' electron shell, and the electrons within this particular shell 'valence electrons', because they are in the OUTERMOST OCCUPIED ELECTRON SHELL OF THE ATOM.** 
 
-This statement was not bolded nor capitalized for no reason. This is such an essential concept to understand because it is these valence electrons that will underpin chemical reactivity.
+This statement was not bolded nor capitalized for no reason. This is an essential concept to understand because it is the valence electrons that will underpin chemical reactivity.
 
 Now that we have established how many electrons will go into each shell, and what our valence shell is, we can now start determining into which subshells and orbitals the electrons in each shell will move into.
 
@@ -95,7 +95,7 @@ The easiest and most intuitive way to do this is by using an electron filling di
   <img src="https://raw.githubusercontent.com/MedicinalSynthesis/medicinalsynthesis/refs/heads/main/assets/chapter1images/Photo1.png" style="width: 400px; max-width: 100%; height: auto;">
 </p>
 
-This allows us to chart exactly WHERE in each shell the electrons are going. Each square represents an orbital, and each row a subshell.
+This allows us to chart exactly WHERE in each shell the electrons are going. Each square represents an orbital, and each row a subshell. The terms '1s' or '2s' refer to the shell and subshell that the orbital is in. For example, the '2p' designation means that we are referring to the SECOND shell and the P subshell.
 
 To start, lets fill in the electrons that fit within the first shell, for which we deduced earlier that there would be two electrons.
 
@@ -104,6 +104,26 @@ To start, lets fill in the electrons that fit within the first shell, for which 
 </p>
 
 Note that each arrow, no matter whether it is pointing up or down, represents a single electron. Electrons are always drawn out in pairs in each orbital, with one arrow pointing up and another pointing down. At this stage, you do not need to understand the significance of the direction of the arrows, other than that when two electrons pair up, one is something called 'spin-up' and another is something called 'spin-down'.
+
+Let's keep going. 
+
+Take a moment and notice how the squares (or orbitals) are arranged in LEVELS, with the 2s orbital above the 1s orbital, the 2p orbitals above the 2s orbital, and so forth. 
+
+When we fill in electrons in a shell with multiple subshells (like how the second shell has S and P subshells), we start by placing electrons from the lower levels until the orbitals are all filled, and then moving to the higher levels. When there are multiple orbitals on the same level (i.e squares in a row such as for the 2p subshell), we start by placing one electron (with the arrow pointing up) in each box BEFORE beginning to pair them up.
+
+A picture is worth a thousand words, so you might understand this concept more intuitively from the finished Carbon electron diagram below.
+
+<p style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/MedicinalSynthesis/medicinalsynthesis/refs/heads/main/assets/chapter1images/Photo3.png" style="width: 400px; max-width: 100%; height: auto;">
+</p>
+
+
+
+
+
+
+
+
 
 
 
