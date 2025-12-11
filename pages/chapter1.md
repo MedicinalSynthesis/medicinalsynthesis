@@ -107,15 +107,23 @@ Note that each arrow, no matter whether it is pointing up or down, represents a 
 
 Let's keep going. 
 
-Take a moment and notice how the squares (or orbitals) are arranged in LEVELS, with the 2s orbital above the 1s orbital, the 2p orbitals above the 2s orbital, and so forth. 
+Take a moment and notice how the squares (or orbitals) are arranged in LEVELS, with the 2s orbital above the 1s orbital, the 2p orbitals above the 2s orbital, and so forth.
 
-When we fill in electrons in a shell with multiple subshells (like how the second shell has S and P subshells), we start by placing electrons from the lower levels until the orbitals are all filled, and then moving to the higher levels. When there are multiple orbitals on the same level (i.e squares in a row such as for the 2p subshell), we start by placing one electron (with the arrow pointing up) in each box BEFORE beginning to pair them up.
+Higher level = higher energy.
+
+When we fill in electrons in a shell with multiple subshells (like how the second shell has S and P subshells), we start by placing electrons from the lower levels until all the orbitals are filled, and then moving to the higher levels. 
+
+When there are multiple orbitals on the same level (i.e squares in a row such as for the 2p subshell), we start by placing one electron (with the arrow pointing up) in each box BEFORE beginning to pair them up.
 
 A picture is worth a thousand words, so you might understand this concept more intuitively from the finished Carbon electron diagram below.
 
 <p style="text-align: center;">
   <img src="https://raw.githubusercontent.com/MedicinalSynthesis/medicinalsynthesis/refs/heads/main/assets/chapter1images/Photo3.png" style="width: 400px; max-width: 100%; height: auto;">
 </p>
+
+Do you see how we completed the 2s orbital FIRST using two electrons, and then moved to the next level (2p) and placed the remaining two electrons (remember there were four total in the second shell for Carbon) in distinct 2p orbitals of the same level? And, lets say we were not dealing with Carbon but another element with more electrons, we would have popped another 'spin-up' electron in the third square/orbital, and THEN started pairing each of the lone electrons up, one at a time.
+
+As a note, when multiple orbitals that are on the same level (2p and 3p for example), we c all those orbitals 'degenerate' because they are identical in energy.
 
 
 
