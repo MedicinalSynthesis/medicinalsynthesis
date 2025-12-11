@@ -103,6 +103,7 @@ To start, lets fill in the electrons that fit within the first shell, for which 
   <img src="https://raw.githubusercontent.com/MedicinalSynthesis/medicinalsynthesis/refs/heads/main/assets/chapter1images/Photo2.png" style="width: 400px; max-width: 100%; height: auto;">
 </p>
 
+Note that each arrow, no matter whether it is pointing up or down, represents a single electron. Electrons are always drawn out in pairs in each orbital, with one arrow pointing up and another pointing down. At this stage, you do not need to understand the significance of the direction of the arrows, other than that when two electrons pair up, one is something called 'spin-up' and another is something called 'spin-down'.
 
 
 
