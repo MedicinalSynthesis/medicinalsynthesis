@@ -2,11 +2,12 @@
 ---
 
 @import "minima";
+
 .site-header {
   background-image: url("/assets/header-bg.png");
-  background-size: cover;          /* scales for all screen sizes */
+  background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 
-  min-height: 140px;               /* adjust as needed */
+  min-height: 180px;
 }
