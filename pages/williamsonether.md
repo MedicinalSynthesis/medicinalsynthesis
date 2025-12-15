@@ -12,7 +12,9 @@ The reactants needed are:
 
 ## Mechanistic Detail
 
-placeholder
+<p style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/MedicinalSynthesis/medicinalsynthesis/refs/heads/main/assets/WilliamsonEtherMechanisticDetail.png" style="width: 400px; max-width: 100%; height: auto;">
+</p>
 
 ## Interesting Points
 placeholder
