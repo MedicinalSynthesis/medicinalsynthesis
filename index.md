@@ -7,15 +7,14 @@ title: Homepage
 
 Hello! Welcome to this free, online learning resource for medicinal synthesis, which is a subtopic of chemistry that concerns itself with utilizing organic synthetic methods to generate pharmaceutical molecules. 
 
-This website aims to provide **concise**, **clear**, and **intuitive** explanations of organic synthesis that starts from the basics and progresses to more advanced topics. 
+This website aims to provide **concise**, **clear**, and **intuitive** explanations of organic synthesis reactions that are used to create pharmaceutical products.
 
-Whilst primarily targeted towards those in their undergraduate years of medicinal chemistry or pharmaceutical science degrees, this resource should also be of great use to those studying any course/major where organic chemistry is involved such as **Orgo 1/2**, as medicinal synthesis and organic chemistry go hand-in-hand (thus these terms may be used interchangeably).
-
-Organic chemistry is unfortunately a daunting topic for many as per the often convoluted way it is taught. I hope that this website succeeds in presenting the content of this discipline to you in a way that is both **simple** and **approachable** no matter your skill level in chemistry!
+Whilst primarily targeted towards those in their undergraduate years of organic chemistry, medicinal chemistry, or pharmaceutical science degrees, this resource should hopefully be of use to anyone interested in the chemistry behind how drug molecules are made.
 
 ## Table of Contents
 
-- [Chapter 0: A Very Brief Introduction](pages/chapter0.md)
-- [Chapter 1: The Basics I](pages/chapter1.md)
-- [Chapter 2: The Basics II](pages/chapter2.md)
-- [Chapter 3: The Basics III](pages/chapter3.md)
+- [Aldol Addition](pages/aldoladdition.md)
+- [Aldol Condensation](pages/aldolcondensation.md)
+- [Michael Addition](pages/michaeladdition.md)
+- [Claisen Condensation](pages/claisencondensation.md)
+- [Williamson-Ether](pages/williamsonether.md)
