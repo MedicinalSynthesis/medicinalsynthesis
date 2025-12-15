@@ -3,11 +3,11 @@
 
 @import "minima";
 
-.site-header {
+header.site-header {
   background-image: url("/assets/header-bg.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-
   min-height: 180px;
+  padding: 2rem 0;
 }
