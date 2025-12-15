@@ -12,7 +12,7 @@ The reactants needed are:
 
 ## Mechanistic Detail
 The below example of this reaction utilizes bromomethane and propoxide (aka - deprotonated propanol). 
-##
+#
 <img src="https://raw.githubusercontent.com/MedicinalSynthesis/medicinalsynthesis/refs/heads/main/assets/WilliamsonEtherMechanisticDetail3.png" style="width: 700px; max-width: 100%; height: auto;">
 
 ## Interesting Points
