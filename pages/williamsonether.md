@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Outline
+## **Outline**
 The Williamson-Ether synthesis is used to **form ethers** from **alkoxides** (deprotonated alcohols) and **alkyl halides** in an Sn2 fashion.
 
 The reactants needed are:
@@ -10,7 +10,7 @@ The reactants needed are:
 - an **alcohol** to be deprotonated 
 - an **alkyl halide**
 
-## Mechanistic Detail
+## **Mechanistic Detail**
 The below example of this reaction utilizes bromomethane and propoxide (aka - deprotonated propanol). 
 <br>
 <br>
@@ -19,7 +19,7 @@ The below example of this reaction utilizes bromomethane and propoxide (aka - de
 <br>
 The first step of this reaction entails the generation of our alkoxide nucleophile using a strong base such as the H- ion, which effectively abstracts the proton from the OH group. 
 
-## Interesting Points
+## **Interesting Points**
 placeholder
 
-## Pharmaceutical Case Study
+## **Pharmaceutical Case Study**
