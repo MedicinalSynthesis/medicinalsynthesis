@@ -17,15 +17,16 @@ The below example of this reaction utilizes bromomethane and propoxide (aka - de
 <img src="https://raw.githubusercontent.com/MedicinalSynthesis/medicinalsynthesis/refs/heads/main/assets/WilliamsonEtherMechanisticDetail4.png" style="width: 700px; max-width: 100%; height: auto;">
 <br>
 <br>
-The first step of this reaction entails the generation of our alkoxide nucleophile using a strong base such as the H- ion, which effectively abstracts the proton from the OH group. Hydrogen gas is given off as a byproduct.
+The <ins>first step</ins> of this reaction entails the generation of our alkoxide nucleophile using a strong base such as the H- ion, which effectively abstracts the proton from the OH group. Hydrogen gas is given off as a byproduct.
 
-The second step is an Sn2-style backside attack on the alkyl halide (in this case, bromomethane) to afford the final ether product.
+The <ins></ins>second step is an Sn2-style backside attack on the alkyl halide (in this case, bromomethane) to afford the final ether product.
 
 ## **Interesting Points**
 A Williamson-Ether synthesis can also be performed intramolecularly to yield a cyclic product.
 <br>
 <br>
 <img src="https://raw.githubusercontent.com/MedicinalSynthesis/medicinalsynthesis/refs/heads/main/assets/WilliamsonEtherIntramolecular.png" style="width: 700px; max-width: 100%; height: auto;">
+<br>
 ***Note** that the intermediate product from Step 1 has been redrawn in Step 2 to more clearly show the intramolecular reaction.*
 
 ## **Pharmaceutical Case Study**
