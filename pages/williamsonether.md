@@ -30,6 +30,7 @@ A Williamson-Ether synthesis can also be performed intramolecularly to yield a c
 
 ## **Pharmaceutical Case Study**
 Guaifenesin is the active ingredient in many over-the-counter cough syrups, and works by thinning out mucus in the airways to relieve symptoms of a chesty cough. 
+<br>
 The Williamson-Ether mechanism is an important step in the synthesis of this drug molecule, as can be seen below.
 <br>
 <br>
