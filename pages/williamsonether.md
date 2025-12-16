@@ -19,7 +19,7 @@ The below example of this reaction utilizes bromomethane and propoxide (aka - de
 <br>
 The <ins>first step</ins> of this reaction entails the generation of our alkoxide nucleophile using a strong base such as the H- ion, which effectively abstracts the proton from the OH group. Hydrogen gas is given off as a byproduct.
 
-The <ins>second step</ins> is an Sn2-style backside attack on the alkyl halide (in this case, bromomethane) to afford the final ether product.
+The <ins>second step</ins> is an S<sub/>n</sub>2-style backside attack on the alkyl halide (in this case, bromomethane) to afford the final ether product.
 
 ## **Interesting Points**
 A Williamson-Ether synthesis can also be performed intramolecularly to yield a cyclic product.
