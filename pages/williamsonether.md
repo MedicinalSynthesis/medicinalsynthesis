@@ -33,6 +33,7 @@ Guaifenesin is an active ingredient within over-the-counter cough syrups, and wo
 <br>
 <br>
 <img src="https://raw.githubusercontent.com/MedicinalSynthesis/medicinalsynthesis/refs/heads/main/assets/WilliamsonEtherGua.png" style="width: 700px; max-width: 100%; height: auto;">
+<br>
 Note the use of OH- as the strong base instead of the H- hydride ion, as was depicted previously.
 
 
