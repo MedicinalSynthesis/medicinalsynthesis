@@ -35,7 +35,7 @@ The Williamson-Ether mechanism is an important step in the synthesis of this dru
 <br>
 <img src="https://raw.githubusercontent.com/MedicinalSynthesis/medicinalsynthesis/refs/heads/main/assets/WilliamsonEtherGua.png" style="width: 700px; max-width: 100%; height: auto;">
 <br>
-*Note the use of OH- as the strong base instead of the H- hydride ion, as was depicted previously.*
+*Note the use of OH- as the strong base instead of the H- hydride ion, as was depicted previously. Conseqently, no H2 is off-gassed during the deprotonation in the first step*
 
 
 
