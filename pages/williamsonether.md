@@ -6,7 +6,7 @@ layout: default
 The Williamson-Ether synthesis is used to **form ethers** from **alkoxides** (deprotonated alcohols) and **alkyl halides** in an Sn2 fashion.
 
 The reactants needed are:
-- a source of **hydride ions** (NaH, for example)
+- a **strong base**, such as hydride ions ***or*** hydroxide ions
 - an **alcohol** to be deprotonated 
 - an **alkyl halide**
 
@@ -28,3 +28,8 @@ A Williamson-Ether synthesis can also be performed intramolecularly to yield a c
 <img src="https://raw.githubusercontent.com/MedicinalSynthesis/medicinalsynthesis/refs/heads/main/assets/WilliamsonEtherIntramolecular.png" style="width: 700px; max-width: 100%; height: auto;">
 
 ## **Pharmaceutical Case Study**
+Guaifenesin is an active ingredient within over-the-counter cough syrups, and works by thinning out mucus in the airways to relieve symptoms of a chesty cough. The Williamson-Ether mechanism is an important step in the synthesis of this drug molecule.
+
+
+
+
