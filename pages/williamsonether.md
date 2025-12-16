@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## **Outline**
-The Williamson-Ether synthesis is used to **form ethers** from **alkoxides** (deprotonated alcohols) and **alkyl halides** in an Sn2 fashion.
+The Williamson-Ether synthesis is used to **form ethers** from **alkoxides** (deprotonated alcohols) and **alkyl halides** in an S<sub/>n</sub>2 fashion.
 
 The reactants needed are:
 - a **strong base**, such as hydride ions ***or*** hydroxide ions
