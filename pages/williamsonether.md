@@ -22,7 +22,7 @@ The first step of this reaction entails the generation of our alkoxide nucleophi
 The second step is an Sn2-style backside attack on the alkyl halide (in this case, bromomethane) to afford the final ether product.
 
 ## **Interesting Points**
-A Williamson-Ether synthesis can also be performed intramolecularly to yield a cyclic product.
+A Williamson-Ether synthesis can also be performed intramolecularly to yield a cyclic product. Note that the intermediate product from Step 1 has been redrawn in Step 2 to more clearly show the intramolecular reaction.
 <br>
 <br>
 <img src="https://raw.githubusercontent.com/MedicinalSynthesis/medicinalsynthesis/refs/heads/main/assets/WilliamsonEtherIntramolecular.png" style="width: 700px; max-width: 100%; height: auto;">
